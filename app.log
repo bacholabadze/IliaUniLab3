@@ -2,4 +2,4 @@ root - DEBUG - This will get logged
 root - WARNING - This is warning message
 root - ERROR - This is error message
 root - CRITICAL - This is critical message
-root - INFO - This is info message
+root - INFO - This is info message. Line NO: 13
